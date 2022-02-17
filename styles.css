@@ -1,0 +1,32 @@
+header{
+    display: block;
+    height: 250px;
+    background-color: red;
+
+}
+nav{
+    display: block;
+    position:relative;
+    background-color: red;
+    height: 30%;
+    border-radius: 3px;
+    text-align: end;
+    width: 100%;
+}
+button{
+    border: none;
+    background-color:transparent;
+    color: white;
+    font-size: 36px;
+    margin: 0 0 0 40px;
+}
+#hero{
+    background-color:darkblue;
+    color: white;
+    font-size: 62px;
+    text-align: center;
+}
+#flag{
+    height: 275px;
+    margin: -50px 0 0 0;
+}
